@@ -1,0 +1,51 @@
+body, .home {
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: linear-gradient(135deg, #4285f4, #34a853, #fbbc05, #ea4335);
+  }
+  
+  .home{
+    display: flex;
+  }
+  .container {
+    text-align: center;
+    background-color: #fff;
+    padding: 40px;
+    border-radius: 10px;
+  }
+  
+  h1 {
+    font-size: 30px;
+    color: black;
+    padding-bottom: 20px;
+  }
+
+  .map_title{
+    font-style: italic;
+    color: black;
+    padding-top: 20px;
+    text-align: center;
+  }
+  
+  .btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: rgb(0, 214, 214);
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .btn:hover {
+    background-color: rgb(0, 95, 95);
+    animation:ease-in-out ;
+    transform: scale(1.1);
+  }
+
+ #map {
+  height: 500px;
+  width: 100%;
+}
