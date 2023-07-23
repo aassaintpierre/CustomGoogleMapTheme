@@ -12,3 +12,7 @@
 
 - [Google map platform](https://console.cloud.google.com/google/maps-apis/home?project=regal-reporter-390119)
 
+## How to test
+
+- A navigator(Google chrome, Firefox, Brave...)
+- Open the index.html file
